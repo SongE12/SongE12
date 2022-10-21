@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&type=waving&height=200&section=header&text=FrontEnd%20Junior%20Developer&fontSize=40&fontAlignY=40)
+
 ### ✨ Social
 
 <span>
